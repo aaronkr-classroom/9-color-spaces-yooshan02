@@ -1,0 +1,12 @@
+
+    import numy as np
+    import matplotlib.image as mping
+    import matplotlib.pyplot as plt
+    import cv2
+
+#이미지 표시
+image = mping.imread('')
+
+#이미지 크기
+print('Image')
+
